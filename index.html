@@ -1,50 +1,76 @@
 <!DOCTYPE html>
 <html>
+<!-- CSS Stylesheets -->
 <head>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
 <link rel="stylesheet" type="text/css" href="stylesheet.css">
 </head>
+
+
 <body>
 <div> <!--Background div-->
-	<div id="Menu">
-		<p>Apresentação</p>
-		<p>Habilidades e Idiomas</p>
-		<p>Formação e Experiência</p>
-		<p>Contatos e Referências</p>
+	<div id="Menu" class="row">
+		<div class="col-md-3">
+			<p>Apresentação</p>
+		</div>
+		<div class="col-md-3">
+			<p>Habilidades e Idiomas</p>
+		</div>
+		<div class="col-md-3">
+			<p>Formação e Experiência</p>
+		</div>
+		<div class="col-md-3">
+			<p>Contatos e Referências</p>
+		</div>		
 	</div>
+
 	<div class="even" id="Presentation">
 		<h1>Francisco Llamosas Baptista</h1>
 		<p>Biólogo, estudante de Engenharia de Computação, entusiasta blockchain</p>
 	</div>
-  <div class="odd" id="SkillsLanguages">
+
+  <div class="odd row" id="SkillsLanguages">
     <h1>Habilidades e Idiomas</h1>
-    <div id="Skills">
+    <div class = "col-md-6" id="Skills">
       <h2>Habilidades<h2>
     </div>
-    <div id="Lang">
+    <div class="col-md-6" id="Lang">
       <h2>Idiomas<h2>
     </div>
   </div>
-  <div class="even" id="EduExp">
+
+  <div class="even row" id="EduExp">
   	<h1>Formação e Experiências</h1>
-  	<div id="Education">
+  	<div class="col-md-6" id="Education">
   		<h2>Formação</h2>
  	</div>
-  	<div id="Experience">
+  	<div class="col-md-6" id="Experience">
   		<h2>Experiências</h2>
   	</div>
   </div>
-  <div class="odd" id="ContRef">
+
+  <div class="odd row" id="ContRef">
   	<h1>Contatos e Referências</h1>
-  	<div id="Contat">
+  	<div class="col-md-6" id="Contat">
   		<h2>Contatos</h2>
   	</div>
-  	<div id="References">
+  	<div class="col-md-6" id="References">
   		<h2>Referencias<h2>
   	</div>
   </div>
+
   <div id="footer">
   	<p>Copyright by Francisco Llamosas</p>
   </div>
+
 </div>
+
+
+<!--JS scripts -->
+<script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+
+
 </body>
 </html>
