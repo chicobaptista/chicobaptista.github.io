@@ -6,8 +6,16 @@
 	background-color: DarkGray;
 }
 
-h1{
+.subTitle{
+	text-align: center;
+}
 
+#background{
+	padding: 20px;
+}
+
+h1{
+	text-align: center;
 }
 h2{
 
