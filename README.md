@@ -7,8 +7,8 @@ Simple project that aims to create a stactic webpage containing a digital resume
 - [x] Create html and css files
 - [x] Add basic html framework and bootstrap support
 - [x] Insert skills and languages placeholders
-- [ ] Insert educatinal background and work experiences placeholders
-- [ ] Insert contacts and references placeholders
+- [x] Insert educational background and work experiences placeholders
+- [x] Insert contacts and references placeholders
 - [ ] Add images to resume
 - [ ] Visual design: color pallete, typefaces
 - [ ] Add links to contact and references (personal website, github page, skype, address, etc)
