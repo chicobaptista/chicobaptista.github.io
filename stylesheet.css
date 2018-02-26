@@ -1,9 +1,11 @@
 .even{
 	background-color: LightGray;
+	padding: 10px;
 }
 
 .odd{
 	background-color: DarkGray;
+	padding: 10px;
 }
 
 .subTitle{
@@ -12,6 +14,11 @@
 
 #background{
 	padding: 20px;
+}
+
+#footer{
+	margin: 10px;
+	text-align: right;
 }
 
 h1{
