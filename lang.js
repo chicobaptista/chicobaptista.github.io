@@ -18,4 +18,4 @@ langCode = navigator.language.substr (0, 2);
 if (langCode in langs)
 	$.getJSON('lang/'+langCode+'.json', translate);
 else
-	$.getJSON('lang/en.json', translate);
+	$.getJSON('lang/pt.json', translate);
