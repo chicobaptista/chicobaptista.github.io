@@ -1,5 +1,6 @@
 {
 	"presentation" : "Apresentação",
+	"name" : "Francisco Llamosas Baptista",
 	"skills-lang" : "Habilidades e Idiomas",
 	"edu-exp" : "Formação e Experiência",
 	"cont-ref" : "Contatos e Referências",
@@ -15,5 +16,11 @@
 	"cont" : "Contatos",
 	"ref" : "Projetos",
 	"teacherassistant" : "Monitoria Biologia Vegetal",
-	"esl-teacher" : "Professor de Inglês níveis Básico, Intermediário e Avançado"
+	"esl-teacher" : "Professor de Inglês níveis Básico, Intermediário e Avançado",
+	"bacBioSci" : "Bacharelado em Ciências Biológicas",
+	"bacComSci" : "Bacharelado em Ciências da Computação",
+	"UFMG" : "Universidade Federal de Minas Gerais",
+	"UNICAMP" : "Universidade Estadual de Campinas",
+	"CNA-SJC" : "CNA - São José dos Campos",
+	"copyright" : "Copyright by Francisco Llamosas 2018"
 }
