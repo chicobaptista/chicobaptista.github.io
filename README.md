@@ -24,7 +24,7 @@ Proza Libre Sans
 - [x] Color pallete
 - [x] Typefaces
 - [ ] Add links to contact and references (personal website, github page, skype, address, etc)
-- [x] Add bilingual support
-- [x] Flesh out text in pt-br
-- [x] Translate text to en-us
+- [ ] Add bilingual support
+- [ ] Flesh out text in pt-br
+- [ ] Translate text to en-us
 - [ ] Add google-maps widget
