@@ -12,6 +12,7 @@ Simple project that aims to create a stactic webpage containing a digital resume
 - [ ] Add images to resume
 - [ ] Color pallete
 - [ ] Typefaces
+- [ ] Visual design: color pallete, typefaces
 - [ ] Add links to contact and references (personal website, github page, skype, address, etc)
 - [x] Add bilingual support
 - [x] Flesh out text in pt-br
