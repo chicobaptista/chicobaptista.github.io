@@ -1,50 +1,39 @@
 h1{
 	text-align: center;
+	font-family: 'Cormorant Garamond', serif;
 	font-weight: bold;
 }
 h3{
-
+	font-family: 'Proza Libre', sans-serif;
   }
 p{
+	font-family: 'Proza Libre', sans-serif;
 }
 
 .even{
-	background-color: lightgray;
+	background-color: #EBEBEB;
 	padding: 10px;
 }
 
 .odd{
-	background-color: darkgray;
+	background-color: #B2B2B2;
 	padding: 10px;
 }
 
-.subTitle{
-	text-align: center;
-}
-
 #Menu{
-	background-color: black;
-	color: lightgray;
+	background-color: #434150;
+	color: #D4B667;
 	font-weight: bold;
 }
 
 #background{
-	background-color: black;
+	background-color: #434150;
 	padding: 20px;
 }
 
 #footer{
 	margin: 10px;
 	text-align: right;
-	background-color: black;
-	color: lightgray;
-}
-
-h1{
-	text-align: center;
-}
-h2{
-
-}
-p{
+	background-color: #434150;
+	color: #E0D19E;
 }
