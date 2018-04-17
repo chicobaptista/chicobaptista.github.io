@@ -5,7 +5,6 @@ var langJS = null;
 
 var translate = function (jsdata)
 {	
-	console.log('Function called')
 	$("[tkey]").each (function (index)
 	{
 		var strTr = jsdata [$(this).attr ('tkey')];
@@ -16,9 +15,11 @@ var translate = function (jsdata)
 
 
 langCode = navigator.language.substr (0, 2);
-console.log('langCode is: '+langCode)
 
-if (langCode in langs)
-	$.getJSON('lang/'+langCode+'.json', translate);
-else
-	$.getJSON('lang/pt.json', translate);
+if ($.inArray( langCode, langs) >= 0) {
+    $.getJSON('lang/'+langCode+'.json', translate);
+
+}
+else {
+    $.getJSON('lang/pt.json', translate);
+}
