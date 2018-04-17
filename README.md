@@ -20,7 +20,7 @@ Proza Libre Sans
 - [x] Insert skills and languages placeholders
 - [x] Insert educational background and work experiences placeholders
 - [x] Insert contacts and references placeholders
-- [ ] Add images to resume
+- [x] Add images to resume
 - [x] Color pallete
 - [x] Typefaces
 - [x] Add links to contact and references (personal website, github page, skype, address, etc)
