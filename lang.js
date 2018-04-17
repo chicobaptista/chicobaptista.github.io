@@ -9,7 +9,6 @@ var translate = function (jsdata)
 	{
 		var strTr = jsdata [$(this).attr ('tkey')];
 	    $(this).html (strTr);
-	    console.log('strTr is: '+strTr)
 	});
 }
 
