@@ -23,7 +23,7 @@ Proza Libre Sans
 - [ ] Add images to resume
 - [x] Color pallete
 - [x] Typefaces
-- [ ] Add links to contact and references (personal website, github page, skype, address, etc)
+- [x] Add links to contact and references (personal website, github page, skype, address, etc)
 - [x] Add bilingual support
 - [x] Flesh out text in pt-br
 - [x] Translate text to en-us
