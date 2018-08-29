@@ -28,3 +28,15 @@ Proza Libre Sans
 - [x] Flesh out text in pt-br
 - [x] Translate text to en-us
 - [ ] Add google-maps widget
+
+# Project management stuff:
+
+    Use labels "Parent task" and "Subtask", colored dark purple and light purple.
+        This lets me mentally organize the tickets at a glance.
+    Task titles
+        Put the "Parent task: " in the title of parents
+        Put "(Parent #34)" in front of the title of subtasks
+        This lets me quickly filter out everything but a parent and its subtasks by simply typing "34)
+    List the subtasks in the description of a parent task, such as "Subtasks: #3, #4, #5"
+   Create a node diagram showing the relationships between tickets for some hairier parent/sub tasks.
+
