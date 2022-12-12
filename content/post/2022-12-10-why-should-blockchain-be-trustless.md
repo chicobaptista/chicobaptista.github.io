@@ -1,6 +1,8 @@
 ---
 title: Why should (or shouldn't) blockchain be trustless?
 date: 2022-12-10
+categories: ['blockchain']
+tags: ['trust', 'decentralization', 'organized society']
 comments: true
 ---
 
